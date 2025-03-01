@@ -23,3 +23,9 @@ To run the text editor, you need Python and Tkinter installed on your machine. T
    ```bash
    pip install tk
    ```
+### Clone the Repository
+
+To get started, clone this repository to your local machine:
+```bash
+git clone https://github.com/your-username/Beautiful-Text-Editor.git
+```
